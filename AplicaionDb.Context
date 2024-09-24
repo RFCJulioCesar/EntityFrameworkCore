@@ -1,0 +1,6 @@
+﻿namespace mi_primer_conexion_BD
+{
+    public class AplicaionDb : DbContext
+    {
+    }
+}

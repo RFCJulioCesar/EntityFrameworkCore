@@ -1,0 +1,52 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+**/packages/*
+project.lock.json
+project.fragment.lock.json
+
+# Azure Web App publish settings
+publish/
+*.publishsettings
+
+# Others
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pdb
+*.cache
+*.ilk
+*.log
+*.tlog
+*.vsp
+*.vspx
+*.dmp
+*.obj
+*.exe
+
+# User-specific files
+*.sln.ide
+*.sln.ide*
+*.userprefs

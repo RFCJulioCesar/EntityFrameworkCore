@@ -1,0 +1,6 @@
+@mi_primer_conexion_BD_HostAddress = http://localhost:5219
+
+GET {{mi_primer_conexion_BD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
